@@ -1,0 +1,269 @@
+
+huhtik. 16, 2020 16:16:49.82 NEW SESSION
+huhtik. 16, 2020 16:16:49.82 
+huhtik. 16, 2020 16:16:49.82 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+huhtik. 16, 2020 16:16:49.82 
+huhtik. 16, 2020 16:16:49.83 
+huhtik. 16, 2020 16:16:49.83 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+huhtik. 16, 2020 16:16:49.83 
+huhtik. 16, 2020 16:42:00.15 
+huhtik. 16, 2020 16:42:00.15 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+huhtik. 16, 2020 16:42:00.15 
+huhtik. 16, 2020 16:42:00.17 
+huhtik. 16, 2020 16:42:00.17 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+huhtik. 16, 2020 16:42:00.17 
+
+huhtik. 17, 2020 11:40:19.51 NEW SESSION
+huhtik. 17, 2020 11:40:19.51 
+huhtik. 17, 2020 11:40:19.52 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+huhtik. 17, 2020 11:40:19.53 
+huhtik. 17, 2020 11:40:19.53 
+huhtik. 17, 2020 11:40:19.53 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+huhtik. 17, 2020 11:40:19.53 
+huhtik. 17, 2020 11:43:36.52 
+huhtik. 17, 2020 11:43:36.53 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+huhtik. 17, 2020 11:43:36.54 
+huhtik. 17, 2020 11:43:36.54 
+huhtik. 17, 2020 11:43:36.55 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+huhtik. 17, 2020 11:43:36.55 
+
+huhtik. 18, 2020 13:07:30.91 NEW SESSION
+huhtik. 18, 2020 13:07:30.91 
+huhtik. 18, 2020 13:07:30.92 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+huhtik. 18, 2020 13:07:30.92 
+huhtik. 18, 2020 13:07:30.95 
+huhtik. 18, 2020 13:07:30.95 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+huhtik. 18, 2020 13:07:30.95 
+
+huhtik. 19, 2020 20:14:51.10 NEW SESSION
+huhtik. 19, 2020 20:14:51.11 _create_dc_and_bitmap: Toiminto suoritettiin.
+huhtik. 19, 2020 20:14:51.11 
+huhtik. 19, 2020 20:14:51.11 _create_dc_and_bitmap: Kahva ei kelpaa.
+huhtik. 19, 2020 20:14:51.11 
+huhtik. 19, 2020 20:14:51.11 _create_dc_and_bitmap: Kahva ei kelpaa.
+huhtik. 19, 2020 20:14:51.11 
+
+huhtik. 25, 2020 22:12:12.18 NEW SESSION
+huhtik. 25, 2020 22:12:12.18 
+huhtik. 25, 2020 22:12:12.19 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+huhtik. 25, 2020 22:12:12.20 
+huhtik. 25, 2020 22:12:12.20 
+huhtik. 25, 2020 22:12:12.20 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+huhtik. 25, 2020 22:12:12.20 
+huhtik. 25, 2020 23:02:49.44 
+huhtik. 25, 2020 23:02:49.44 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+huhtik. 25, 2020 23:02:49.44 
+huhtik. 25, 2020 23:02:49.46 
+huhtik. 25, 2020 23:02:49.46 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+huhtik. 25, 2020 23:02:49.46 
+huhtik. 26, 2020 24:36:32.98 
+huhtik. 26, 2020 24:36:32.99 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+huhtik. 26, 2020 24:36:33.00 
+huhtik. 26, 2020 24:36:33.01 
+huhtik. 26, 2020 24:36:33.01 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+huhtik. 26, 2020 24:36:33.01 
+
+huhtik. 26, 2020 16:24:35.75 NEW SESSION
+huhtik. 26, 2020 16:24:35.75 
+huhtik. 26, 2020 16:24:35.75 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+huhtik. 26, 2020 16:24:35.75 
+huhtik. 26, 2020 16:24:35.76 
+huhtik. 26, 2020 16:24:35.76 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+huhtik. 26, 2020 16:24:35.77 
+
+toukok. 01, 2020 19:19:50.81 NEW SESSION
+toukok. 01, 2020 19:19:50.81 [Parent 9536, Gecko_IOThread] WARNING: pipe error: 232: file Z:/task_1585933993/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 514
+toukok. 01, 2020 19:19:50.91 
+toukok. 01, 2020 19:19:50.91 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+toukok. 01, 2020 19:19:50.91 
+toukok. 01, 2020 19:19:50.93 
+toukok. 01, 2020 19:19:50.93 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+toukok. 01, 2020 19:19:50.93 
+
+toukok. 02, 2020 13:54:53.96 NEW SESSION
+toukok. 02, 2020 13:54:53.97 _create_dc_and_bitmap: Toiminto suoritettiin.
+toukok. 02, 2020 13:54:53.98 
+toukok. 02, 2020 13:54:53.98 _create_dc_and_bitmap: Kahva ei kelpaa.
+toukok. 02, 2020 13:54:53.98 
+toukok. 02, 2020 17:27:02.13 
+toukok. 02, 2020 17:27:02.14 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+toukok. 02, 2020 17:27:02.15 
+toukok. 02, 2020 17:27:02.16 
+toukok. 02, 2020 17:27:02.16 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+toukok. 02, 2020 17:27:02.16 
+toukok. 02, 2020 23:32:48.39 
+toukok. 02, 2020 23:32:48.39 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+toukok. 02, 2020 23:32:48.39 
+
+toukok. 03, 2020 22:58:10.71 NEW SESSION
+toukok. 03, 2020 22:58:10.71 
+toukok. 03, 2020 22:58:10.71 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+toukok. 03, 2020 22:58:10.72 
+toukok. 03, 2020 22:58:10.73 
+toukok. 03, 2020 22:58:10.73 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+toukok. 03, 2020 22:58:10.73 
+toukok. 03, 2020 22:59:50.38 
+toukok. 03, 2020 22:59:50.39 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+toukok. 03, 2020 22:59:50.40 
+toukok. 03, 2020 22:59:50.41 
+toukok. 03, 2020 22:59:50.41 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+toukok. 03, 2020 22:59:50.41 
+toukok. 03, 2020 23:23:25.37 
+toukok. 03, 2020 23:23:25.38 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+toukok. 03, 2020 23:23:25.38 
+toukok. 03, 2020 23:23:25.39 
+toukok. 03, 2020 23:23:25.40 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+toukok. 03, 2020 23:23:25.40 
+toukok. 04, 2020 24:11:33.00 
+toukok. 04, 2020 24:11:33.00 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+toukok. 04, 2020 24:11:33.00 
+toukok. 04, 2020 24:11:33.02 
+toukok. 04, 2020 24:11:33.02 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+toukok. 04, 2020 24:11:33.02 
+toukok. 04, 2020 01:44:42.74 
+toukok. 04, 2020 01:44:42.74 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+toukok. 04, 2020 01:44:42.75 
+toukok. 04, 2020 01:44:42.75 
+toukok. 04, 2020 01:44:42.75 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+toukok. 04, 2020 01:44:42.75 
+toukok. 04, 2020 01:46:10.30 
+toukok. 04, 2020 01:46:10.32 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+toukok. 04, 2020 01:46:10.33 
+toukok. 04, 2020 01:46:10.33 
+toukok. 04, 2020 01:46:10.33 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+toukok. 04, 2020 01:46:10.33 
+
+toukok. 06, 2020 23:40:32.41 NEW SESSION
+toukok. 06, 2020 23:40:32.41 _create_dc_and_bitmap: Toiminto suoritettiin.
+toukok. 06, 2020 23:40:32.42 
+toukok. 06, 2020 23:40:32.42 _create_dc_and_bitmap: Kahva ei kelpaa.
+toukok. 06, 2020 23:40:32.42 
+toukok. 06, 2020 23:40:32.42 _create_dc_and_bitmap: Kahva ei kelpaa.
+toukok. 06, 2020 23:40:32.42 
+toukok. 06, 2020 23:40:32.42 _create_dc_and_bitmap: Kahva ei kelpaa.
+toukok. 06, 2020 23:40:32.42 
+toukok. 06, 2020 23:40:32.42 _create_dc_and_bitmap: Kahva ei kelpaa.
+toukok. 06, 2020 23:40:32.42 
+toukok. 06, 2020 23:42:03.76 
+toukok. 06, 2020 23:42:03.76 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+toukok. 06, 2020 23:42:03.76 
+toukok. 06, 2020 23:42:03.79 
+toukok. 06, 2020 23:42:03.79 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+toukok. 06, 2020 23:42:03.79 
+
+toukok. 08, 2020 10:46:19.32 NEW SESSION
+toukok. 08, 2020 10:46:19.32 
+toukok. 08, 2020 10:46:19.32 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+toukok. 08, 2020 10:46:19.32 
+toukok. 08, 2020 10:46:19.35 
+toukok. 08, 2020 10:46:19.35 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+toukok. 08, 2020 10:46:19.35 
+toukok. 08, 2020 10:57:32.12 
+toukok. 08, 2020 10:57:32.13 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+toukok. 08, 2020 10:57:32.13 
+toukok. 08, 2020 10:57:32.15 
+toukok. 08, 2020 10:57:32.15 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+toukok. 08, 2020 10:57:32.15 
+toukok. 08, 2020 10:57:49.49 [15040:13492:0508/105749.493:ERROR:browser_switcher_service.cc(238)] XXX Init()
+toukok. 08, 2020 12:48:27.83 [15040:13492:0508/124827.835:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: https://ogs.google.com/u/0/widget/app?origin=chrome-search%3A%2F%2Flocal-ntp&pid=1&spid=243&hl=fi&gm= (0)
+
+toukok. 08, 2020 17:17:27.49 NEW SESSION
+toukok. 08, 2020 17:17:27.49 
+toukok. 08, 2020 17:17:27.49 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+toukok. 08, 2020 17:17:27.49 
+toukok. 08, 2020 17:17:27.51 
+toukok. 08, 2020 17:17:27.51 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+toukok. 08, 2020 17:17:27.51 
+toukok. 08, 2020 17:17:57.23 
+toukok. 08, 2020 17:17:57.25 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+toukok. 08, 2020 17:17:57.26 
+toukok. 08, 2020 17:17:57.27 
+toukok. 08, 2020 17:17:57.27 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+toukok. 08, 2020 17:17:57.27 
+
+toukok. 08, 2020 19:02:14.23 NEW SESSION
+toukok. 08, 2020 19:02:14.23 
+toukok. 08, 2020 19:02:14.25 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+toukok. 08, 2020 19:02:14.26 
+
+toukok. 09, 2020 17:16:03.78 NEW SESSION
+toukok. 09, 2020 17:16:03.78 
+toukok. 09, 2020 17:16:03.80 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+toukok. 09, 2020 17:16:03.81 
+toukok. 09, 2020 17:16:03.81 
+toukok. 09, 2020 17:16:03.81 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+toukok. 09, 2020 17:16:03.81 
+toukok. 09, 2020 19:23:18.92 
+toukok. 09, 2020 19:23:18.93 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+toukok. 09, 2020 19:23:18.93 
+toukok. 09, 2020 19:23:18.97 
+toukok. 09, 2020 19:23:18.98 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+toukok. 09, 2020 19:23:18.98 
+toukok. 09, 2020 19:35:41.63 
+toukok. 09, 2020 19:35:41.63 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+toukok. 09, 2020 19:35:41.63 
+toukok. 09, 2020 19:35:41.65 
+toukok. 09, 2020 19:35:41.65 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+toukok. 09, 2020 19:35:41.65 
+toukok. 09, 2020 22:50:58.23 
+toukok. 09, 2020 22:50:58.23 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+toukok. 09, 2020 22:50:58.23 
+toukok. 09, 2020 22:50:58.25 
+toukok. 09, 2020 22:50:58.25 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+toukok. 09, 2020 22:50:58.25 
+toukok. 09, 2020 23:45:24.74 
+toukok. 09, 2020 23:45:24.75 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+toukok. 09, 2020 23:45:24.77 
+toukok. 09, 2020 23:45:24.77 
+toukok. 09, 2020 23:45:24.77 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+toukok. 09, 2020 23:45:24.77 
+
+toukok. 10, 2020 16:21:19.15 NEW SESSION
+toukok. 10, 2020 16:21:19.15 
+toukok. 10, 2020 16:21:19.16 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+toukok. 10, 2020 16:21:19.17 
+toukok. 10, 2020 18:41:52.52 
+toukok. 10, 2020 18:41:52.52 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+toukok. 10, 2020 18:41:52.53 
+toukok. 10, 2020 18:41:52.54 
+toukok. 10, 2020 18:41:52.54 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+toukok. 10, 2020 18:41:52.55 
+toukok. 10, 2020 19:57:52.46 [Parent 6052, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+toukok. 10, 2020 19:57:52.58 
+toukok. 10, 2020 19:57:52.58 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+toukok. 10, 2020 19:57:52.58 
+toukok. 10, 2020 19:57:52.60 
+toukok. 10, 2020 19:57:52.60 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+toukok. 10, 2020 19:57:52.60 
+toukok. 10, 2020 20:48:31.28 
+toukok. 10, 2020 20:48:31.28 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+toukok. 10, 2020 20:48:31.28 
+toukok. 10, 2020 20:48:31.30 
+toukok. 10, 2020 20:48:31.30 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+toukok. 10, 2020 20:48:31.30 
+toukok. 10, 2020 22:02:27.25 
+toukok. 10, 2020 22:02:27.25 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+toukok. 10, 2020 22:02:27.25 
+toukok. 10, 2020 22:02:27.27 
+toukok. 10, 2020 22:02:27.27 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+toukok. 10, 2020 22:02:27.27 
+toukok. 10, 2020 22:11:32.15 
+toukok. 10, 2020 22:11:32.16 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+toukok. 10, 2020 22:11:32.16 
+toukok. 10, 2020 22:11:32.17 
+toukok. 10, 2020 22:11:32.17 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+toukok. 10, 2020 22:11:32.17 
+
+toukok. 14, 2020 23:50:18.51 NEW SESSION
+toukok. 14, 2020 23:50:18.51 
+toukok. 14, 2020 23:50:18.52 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+toukok. 14, 2020 23:50:18.52 
+toukok. 14, 2020 23:50:18.52 
+toukok. 14, 2020 23:50:18.52 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+toukok. 14, 2020 23:50:18.52 
+toukok. 14, 2020 23:52:14.67 
+toukok. 14, 2020 23:52:14.67 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+toukok. 14, 2020 23:52:14.68 
+toukok. 14, 2020 23:52:14.70 
+toukok. 14, 2020 23:52:14.70 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+toukok. 14, 2020 23:52:14.70 
